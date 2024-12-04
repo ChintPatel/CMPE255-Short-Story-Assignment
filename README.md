@@ -7,3 +7,7 @@ https://arxiv.org/pdf/2409.10482
 Medium Article:
 https://medium.com/@chint.patel/schrodingers-memory-llm-1fa96bd3c505
 
+SlideShare:
+https://www.slideshare.net/secret/IkZEq6q1Oo69VL
+
+
