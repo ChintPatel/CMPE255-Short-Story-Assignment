@@ -10,4 +10,5 @@ https://medium.com/@chint.patel/schrodingers-memory-llm-1fa96bd3c505
 SlideShare:
 https://www.slideshare.net/secret/IkZEq6q1Oo69VL
 
-
+Video:
+https://youtu.be/NueTdyS63f4
